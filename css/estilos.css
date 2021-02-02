@@ -7,6 +7,13 @@ body h1{
   font-size: large;
 }
 body p{
-  background-color: black;
-  color: white;
+  text-align: center;
+  color:grey;
+}
+.container{
+  width: 33%;
+  border:1px solid black;
+  margin: auto;
+  padding:3rem;
+
 }
